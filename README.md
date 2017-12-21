@@ -10,6 +10,10 @@ Awesome datalog libraries, tools and resources
 
 - [Datalog and Recursive Query Processing, by Todd J. Green](https://www.goodreads.com/book/show/19138537-datalog-and-recursive-query-processing)
 
+## Videos
+
+- ["I see what you mean", StrangeLoop talk by Peter Alvaro](https://www.youtube.com/watch?v=R2Aa4PivG0g) - Delicious mix of datalog, logical time and distributed systems
+
 ## Software
 
 ### Big data processing
