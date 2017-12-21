@@ -10,6 +10,7 @@ Awesome datalog libraries, tools and resources
 ### Big data processing
 
 - [BigDatalog](https://github.com/ashkapsky/BigDatalog) - Datalog programming layer on top of Apache Spark
+- [Cascalog](http://cascalog.org/) - Datalog programming layer on top of Apache Hadoop
 
 ### Databases with datalog support
 
