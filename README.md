@@ -6,6 +6,10 @@ Awesome datalog libraries, tools and resources
 - [Datalog article on Wikipedia](https://en.wikipedia.org/wiki/Datalog)
 - [Learn Datalog Today](http://www.learndatalogtoday.org/) - A learning resource focused on the datomic dialect of datalog
 
+## Books
+
+- [Datalog and Recursive Query Processing, by Todd J. Green](https://www.goodreads.com/book/show/19138537-datalog-and-recursive-query-processing)
+
 ## Software
 
 ### Big data processing
