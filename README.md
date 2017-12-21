@@ -3,6 +3,7 @@ Awesome datalog libraries, tools and resources
 
 ## Learning resources
 
+- [Datalog article on Wikipedia](https://en.wikipedia.org/wiki/Datalog)
 - [Learn Datalog Today](http://www.learndatalogtoday.org/) - A learning resource focused on the datomic dialect of datalog
 
 ## Software
