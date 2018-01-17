@@ -23,6 +23,7 @@ Awesome datalog libraries, tools and resources
 
 ### Databases with datalog support
 
+- [Mentat](https://github.com/mozilla/mentat) - An (open source) persistent, relational store inspired by Datomic and DataScript
 - [Datomic](http://www.datomic.com/) - Commercial database system with some free offerings, by Clojure creator Rich Hickey
 
 ## See Also
