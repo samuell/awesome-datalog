@@ -26,6 +26,7 @@ Awesome datalog libraries, tools and resources
 - [Datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS (Open source)
 - [Mentat](https://github.com/mozilla/mentat) - An persistent, relational store inspired by Datomic and DataScript (Open source)
 - [Datomic](http://www.datomic.com/) - Commercial database system with some free offerings, by Clojure creator Rich Hickey
+- [datahike](https://github.com/replikativ/datahike) - A durable datalog implementation adaptable for distribution (Open source)
 
 ## See Also
 
